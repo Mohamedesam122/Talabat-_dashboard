@@ -1,2 +1,2 @@
 # Talabat-_dashboard
- Developed an end-to-end data analysis project during my internship at Instant, analyzing food delivery orders from June 1–16, 2025.
+Developed an end-to-end data analysis project during my internship at Instant, analyzing food delivery orders from June 1–16, 2025. Collected data using web scraping, performed data cleaning and preprocessing, and wrote SQL queries for exploratory analysis. Built a multi-page interactive Power BI dashboard using DAX to track key metrics such as revenue growth, cancellation rate, on-time delivery rate, peak order hours, and top-performing cities and items, enabling insights into customer behavior and operational performance.
